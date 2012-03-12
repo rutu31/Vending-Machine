@@ -1,0 +1,13 @@
+<VendingMachine>
+<FoodItem price="5.0" description="DairyMilk Chocolate" calorificValue="39.0" sugarContents="43.0" fatContents="24.0" quantity="3" ></FoodItem>
+<FoodItem price="9.0" description="Chocolate Cake" calorificValue="45.0" sugarContents="50.0" fatContents="80.0" quantity="4" ></FoodItem>
+<FoodItem price="3.0" description="Strawberry Pastry" calorificValue="63.0" sugarContents="39.0" fatContents="59.0" quantity="3" ></FoodItem>
+<FoodItem price="1.5" description="Potato Chips" calorificValue="29.0" sugarContents="25.0" fatContents="47.0" quantity="6" ></FoodItem>
+<FoodItem price="4.0" description="Coca Cola Can" calorificValue="65.0" sugarContents="79.0" fatContents="44.0" quantity="5" ></FoodItem>
+<FoodItem price="4.0" description="Diet Pepsi Can" calorificValue="37.0" sugarContents="29.0" fatContents="30.0" quantity="5" ></FoodItem>
+<FoodItem price="5.49" description="Raisin Cookies" calorificValue="44.0" sugarContents="57.0" fatContents="77.0" quantity="4" ></FoodItem>
+<FoodItem price="3.0" description="Popcorns" calorificValue="22.0" sugarContents="26.0" fatContents="30.0" quantity="3" ></FoodItem>
+<FoodItem price="7.0" description="Orange Candy" calorificValue="37.0" sugarContents="39.0" fatContents="25.0" quantity="4" ></FoodItem>
+<FoodItem price="8.0" description="Energy Bar" calorificValue="27.0" sugarContents="39.0" fatContents="30.0" quantity="3" ></FoodItem>
+<FoodItem price="5.0" description="Peanuts" calorificValue="32.0" sugarContents="27.0" fatContents="38.0" quantity="2" ></FoodItem>
+</VendingMachine>

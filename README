@@ -1,0 +1,16 @@
+
+1. Vending-Machine-Source-Code - Contains the source code for the Vending Machine. It has two sub-directories, one for each package of the project.
+
+2. Vending-Machine-Javadoc - Contains the javadoc documentation for the project. The main index is at index.html
+
+3. Vending-Machine-Class-Diagrams - Contains the final class diagram and final package diagram of the Vending Machine project.
+
+4. Machine.xml - This is an example XML file that contains the initial input data to be pre-loaded in the Vending Machine.
+
+5. vending-machine.jar - This jar file contains the .class files for the Vending Machine project. These class files can be used to run the app as follows.
+
+java -jar vending-machine.jar <input-xml-file> <output-xml-file>
+
+The <input-xml-file> is the initial xml file containing the data to be pre-loaded in the Vending Machine, and <output-xml-file> is the location where the state of the Vending Machine is stored when the app exits. For example : 
+
+java -jar vending-machine.jar Machine.xml MachineOut.xml  
